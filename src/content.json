@@ -1,0 +1,65 @@
+[
+  {
+    "path": "/products/notlinear/",
+    "title": "Notlinear",
+    "description": "Thinking that doesn't run in straight lines — non-linear notes and ideas.",
+    "kind": "products",
+    "placeholder": true
+  },
+  {
+    "path": "/products/cost-caddy/",
+    "title": "Cost Caddy",
+    "description": "A place to keep track of costs. More details coming soon.",
+    "kind": "products",
+    "placeholder": true
+  },
+  {
+    "path": "/ideas/calmer-inbox/",
+    "title": "A calmer inbox",
+    "description": "Email that respects attention instead of demanding it.",
+    "kind": "ideas",
+    "placeholder": true
+  },
+  {
+    "path": "/ideas/memory-for-teams/",
+    "title": "Memory for teams",
+    "description": "Why does context always leave when a person does?",
+    "kind": "ideas",
+    "placeholder": true
+  },
+  {
+    "path": "/ideas/local-first-notes/",
+    "title": "Local-first notes",
+    "description": "Notes that are truly yours, offline, forever.",
+    "kind": "ideas",
+    "placeholder": true
+  },
+  {
+    "path": "/ideas/a-problem-you-like/",
+    "title": "A problem worth solving",
+    "description": "Describe a problem statement worth solving.",
+    "kind": "ideas",
+    "placeholder": true
+  },
+  {
+    "path": "/writings/tending/",
+    "title": "On tending, not building",
+    "description": "Why the best products are grown, not launched.",
+    "kind": "writings",
+    "placeholder": true
+  },
+  {
+    "path": "/writings/water/",
+    "title": "The thoughts we choose to water",
+    "description": "A note on attention, and what grows from it.",
+    "kind": "writings",
+    "placeholder": true
+  },
+  {
+    "path": "/writings/nonlinear/",
+    "title": "Notes on non-linear thinking",
+    "description": "What I learned building Notlinear.",
+    "kind": "writings",
+    "placeholder": true
+  }
+]
